@@ -4,7 +4,7 @@ if you like this repo please give it a star ⭐
 
 ## Connect with me
 
-[Linkedin](https://www.linkedin.com/in/itsamanyadav18/)
-[Twitter](https://twitter.com/its_aman_yadav)
-[Instagram](https://instagram.com/its_aman_yadav)
+* [Linkedin](https://www.linkedin.com/in/itsamanyadav18/)
+* [Twitter](https://twitter.com/its_aman_yadav)
+* [Instagram](https://instagram.com/its_aman_yadav)
 
