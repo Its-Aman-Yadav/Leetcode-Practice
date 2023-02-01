@@ -12,9 +12,9 @@ public:
         if(root == NULL) return 0;
         int left = diameterOfBinaryTree(root->left);
         int right = diameterOfBinaryTree(root->right);
-        int sum_of_height= height(root->left) + height(root->right) +1;
+        int sum_of_height= height(root->left) + height(root->right);
 
         int ans  = max(sum_of_height,max(left,right));
-        return ans-1;
+        return ans;
     }
 };
